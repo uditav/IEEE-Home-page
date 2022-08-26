@@ -1,0 +1,259 @@
+.test1{
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 70px;
+}
+
+#upperText{
+    height: 493px;
+    width: 773px;
+    left: 100px;
+    top: 99px;
+    border-radius: nullpx;
+}
+
+#lowerText{
+    margin-right: 40%;
+    font-family: 'Poppins';
+    font-style: normal;
+    color: #8E8E92;
+}
+
+.events{
+    background-color: #0083FF;
+    color: white;
+    width: 40%;
+    border-style: none;
+    border-radius: 20px;
+    margin-top: 5%;
+}
+
+.learnmore{
+    background-color: white;
+    color: black;
+    width: 40%;
+    border-style: none;
+    border-radius: 20px;
+    margin-top: 5%;
+    border: 1px solid #c0dcf5;
+    margin-left: -180px;
+}
+
+#myCarousel{
+    border-radius: 5%;
+    right: 5%;
+    margin-top: 5%;
+    height: 500px;
+    width: 500px;
+}
+
+.carousel-control-next{
+    margin-right: 37%;
+}
+
+
+#logo{
+    height: 70px;
+    width: 100px;
+    margin-left: 70%;
+}
+
+.ieeeWeek{
+    background-color: white;
+    color: black;
+    width: 100%;
+    border-style: none;
+    border-radius: 20px;
+    /* margin-top: 5%; */
+    border: 1px solid #c9e0f5;
+    
+}
+
+#navbarSupportedContent{
+    margin-right: 14%; 
+}
+
+#navbarSupportedContent li {
+	display: inline;
+}
+
+#navbarSupportedContent a {
+	text-decoration: none;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: normal;
+	text-transform: normal;
+	letter-spacing: normal;
+	line-height: 1.3em;
+    margin-right: 20px;
+    font-family: 'Smooch Sans', sans-serif;
+	
+}
+
+#navbarSupportedContent a:hover {
+	color: rgb(14, 85, 227);
+    text-decoration: underline;
+}
+
+.ieeeWeek:hover {
+    border-color: #0083FF;
+}
+
+
+.events:hover {
+    background-color: #0083FF;
+    transform: scale(1.2);
+}
+
+.learnmore:hover {
+    transform: scale(1.2);
+    border-color: #0083FF;
+}
+                                                      /* Sara's Code */
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h2{ position: relative;
+    text-align: center;}
+
+.top-part{
+    position:relative;
+    text-align: center;
+    background-color: white;
+    border: 0em;
+    margin: 20rem auto 5rem auto;
+    width: 33%;
+    }
+
+    p{
+    color : grey;
+  
+    }
+
+    .mid-part{
+        
+        background-color: white;
+        margin: 3rem auto 3rem auto;
+       
+    }
+#logo{
+
+    display:inline-block;
+    vertical-align: top;
+    margin-bottom: 3rem;
+    height: 150px;
+    width: 200px;
+    margin-left: 18%;
+
+}
+h3{text-align: center;}
+
+    .text1{
+        display:inline-block;
+        margin: 50px 45% 50px 20%;
+        
+         
+    }
+  #wee{
+    display:inline-block;
+    margin-left: 19%;
+    vertical-align: top;
+    width: 50%;
+    margin-bottom: 3rem;
+
+  }
+
+  .text2{
+    display:inline-block;
+    margin: 50px 30% 50px 15%;
+    
+  }
+
+  .bottom{
+    text-align: center;
+    margin: 50px 20% 50px 20%;
+  }
+ .col{
+    margin:5rem 7rem;
+    
+  }
+h5{
+  text-align: center;
+}
+
+/* udita's part */
+
+footer{
+    font-family: 'Poppins';
+  }
+  
+  .heading{
+    font-weight: 700;
+    padding-bottom: 7%;
+    color:black;
+  }
+  
+  .container-fluid{
+    padding: 5% 14%;
+    margin: 0%;
+  }
+  
+  .about{
+    font-weight: 500;
+    color: #969AA7;
+  }
+  
+  i{
+    margin-right:5px;
+    margin-top:5%;
+    color: #0083FF;
+  }
+  
+  .copyright{
+    color: #969AA7;
+    text-align: center;
+    
+  }
+  
+  .fields{
+   
+    margin-bottom: 2%;
+    border-radius: 10px;
+    width:20rem;
+    border: 2px solid #b1d3f3;
+  }
+  
+  
+  form{
+    padding-top:0%;
+    padding-left: 0%;
+    margin-left: 0%;
+  }
+  
+  textarea {
+    
+    padding-bottom: 6px ;
+    resize: none;
+  }
+  
+  
+  hr{
+    color:#0083ff;
+    border-top: 2px solid ;
+    width: 70%; 
+    margin-right: auto;
+    margin-left:auto ;
+  }
+  
+  .section{
+    padding-left: 10%;
+  }
+  
+  .submit{
+    border-radius:50px;
+  }
+  
+  
+  
+  
